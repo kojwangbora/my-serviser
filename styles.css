@@ -59,6 +59,7 @@ span{
 }
 #clear{
     background: none;
+    border: 1px solid white;
 }
 .first-page{
     background-image: url(images/bg.png);
